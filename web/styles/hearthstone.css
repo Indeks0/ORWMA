@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.grid{
+	font-family: "Times New Roman", Times, serif;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	background-color: #501B1D;
+	padding: 10px;
+	grid-gap: 1em;
+	color: white;
+	grid-template-areas:
+	"title title" 
+	"header header" 
+	"nameofthegame nameofthegame"
+	"content1 content1" 
+	"sidebar content2" 
+}
+
+.title{
+	grid-area: title;
+	margin: 0 auto;
+}
+
+.header{
+	grid-area: header;
+}
+
+body {background-color: #501B1D;}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+.nameofthegame{
+	grid-area: nameofthegame;
+}
+
+.content1{
+	grid-area: content1;
+}
+
+.sidebar{
+	grid-area: sidebar;
+}
+
+.content2{
+	grid-area: content2;
+}
