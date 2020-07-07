@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splatoon2Fragment"
+    android:background="@color/colorBackground">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/slika"
+        android:layout_width="match_parent"
+        android:layout_height="450px"
+        android:layout_alignParentTop="true"
+        android:contentDescription="Splatoon 2"
+        android:src="@drawable/splatoon2" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/Splatoon2Desc"
+        android:textColor="@color/colorAccent"
+        android:layout_below="@id/slika"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/platforms"
+        android:layout_marginTop="320dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/Splatoon2Platforms"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratings"
+        android:layout_marginTop="420dp"
+        android:layout_marginBottom="80dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/Splatoon2Ratings"
+        android:textColor="@color/colorAccent"/>
+
+    <Button
+        android:id="@+id/buttonConfigsSplatoon2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="550dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="40dp"
+        android:text="Configurations" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonDetailsSplatoon2"
+        android:layout_marginTop="550dp"
+        android:layout_toRightOf="@id/buttonConfigsSplatoon2"
+        android:text="Details" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonWebSplatoon2"
+        android:layout_toRightOf="@id/buttonDetailsSplatoon2"
+        android:layout_marginTop="550dp"
+        android:text="Web page" />
+
+
+</RelativeLayout>

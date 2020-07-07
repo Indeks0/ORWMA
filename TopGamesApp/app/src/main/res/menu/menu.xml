@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fortnite"
+        android:title="Fortnite"
+        android:icon="@drawable/ic_fortnite"/>
+    <item
+        android:id="@+id/pubg"
+        android:title="Pubg"
+        android:icon="@drawable/ic_pubg"/>
+    <item
+        android:id="@+id/lol"
+        android:title="LoL"
+        android:icon="@drawable/ic_lol"/>
+    <item
+        android:id="@+id/splatoon2"
+        android:title="Splatoon 2"
+        android:icon="@drawable/ic_splatoon2"/>
+    <item
+        android:id="@+id/hearthstone"
+        android:title="Hearthstone"
+        android:icon="@drawable/ic_hearthstone"/>
+</menu>

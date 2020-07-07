@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Top Games App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="FortniteDesc"><b>Fortnite is a free-to-play strategic action game developed and published by Epic Games</b></string>
+    <string name="FortnitePlatforms"><b>Platforms:</b>\nPS4, Mac, Windows, Nintendo Switch, Android, iOS and Xbox One</string>
+    <string name="FortniteRatings"><b>Ratings:\n</b>Gamespot: 8/10 \nMetacritic: 81/100 \nUser average: 6.9/10</string>
+    <string name="FortnitePageDesc">Fortnite is a free-to-play strategic action game developed and published by Epic Games. The game is available on PS4, Mac, Windows, Nintendo Switch, and Xbox One. \nIt is currently the most popular game in the gaming world with almost 5 million concurrent players. \nThis game of survival pits 100 players against each other. Players can choose to play solo or group into duos or squads of four players where they can have another set of eyes watching their back.</string>
+
+
+    <string name="PubgDesc"><b>PUGB is a battle royale game built and published by PUGB Corporation. The game is based on a few Arma mods and H1Z1.</b></string>
+    <string name="PubgPageDesc">PUGB is a battle royale game built and published by PUGB Corporation. The game is based on a few Arma mods and H1Z1. \nIn this multiplayer game, an individual player along with 99 other real-time players are all taken to a remote island that has been abandoned by its inhabitants. The goal of the game is for the player to eliminate the competition using any means necessary and be the last person standing. \nPUBG is currently one of the most played games in the world. Each match starts with players parachuting from a plane onto one of the four maps. The plane\'s flight path across the map varies with each round, requiring players to quickly determine the best time to eject and parachute to the ground. \nPlayers start with no gear. Once they land, players can search buildings, ghost towns and other sites to find weapons, vehicles, armor, and other equipment. These items are procedurally distributed throughout the map at the start of a match. Killed players can be looted to acquire their gear as well.</string>
+    <string name="PubgPlatforms"><b>Platforms:</b>\nPS4, Windows, Android, iOS and Xbox One</string>
+    <string name="PubgRatings"><b>Ratings:\n</b>Gamespot: 8/10 \nMetacritic: 86/100 \nUser average: 6.8/10</string>
+
+    <string name="LeagueDesc"><b>League of Legends is a multiplayer action RPG game developed and published by Riot Games. The game allows an individual to control their own “Champion” and pits them against other champions.</b></string>
+    <string name="LeaguePageDesc"> It may be almost a decade old, but LoL remains evergreen because of its stunning mode scene and the excitement that it generates. \nLeague of Legends is a multiplayer action RPG game developed and published by Riot Games. The game allows an individual to control their own “Champion” and pits them against other champions. \nLoL boasts more than 7 million concurrent players as well as over a hundred million active ones.</string>
+    <string name="LeaguePlatforms"><b>Platforms:</b>\nWindows and Mac</string>
+    <string name="LeagueRatings"><b>Ratings:\n</b>Gamespot: 9/10 \nMetacritic: 78/100 \nUser average: 8/10</string>
+
+    <string name="Splatoon2Desc"><b>Splatoon 2, the sequel to Platoon, is a colorful team-based multiplayer shooter game. It was created and published by Nintendo and is available exclusively on the Nintendo Switch.</b></string>
+    <string name="Splatoon2PageDesc">Splatoon 2 is a colorful team-based multiplayer shooter game that brings something unusual to the shooter genre. \nPlayers are required to ink everything visible in an attempt to spread colors over the whole map area. \nSplatoon 2 is a third-person shooter in which players control characters, known as Inklings and Octolings, and use colored ink as ammunition. Ink is also used to cover the ground, or any paintable surface, in order to swim or refill their ink tanks. Inklings and Octolings can morph between humanoid, or kid form, where they switch from walking, and shooting, into squid form where they can quickly swim through ink of their own color, and replenish their ink supply, as well as return to full health.</string>
+    <string name="Splatoon2Platforms"><b>Platforms:</b>\nNS</string>
+    <string name="Splatoon2Ratings"><b>Ratings:\n</b>Gamespot: 8/10 \nMetacritic: 83/100 \nUser average: 8.6/10</string>
+
+    <string name="HearthstoneDesc"><b>Hearthstone is a free-to-play online card game created and published by Blizzard Entertainment. The collectible card game requires players to obtain many cards</b></string>
+    <string name="HearthstonePageDesc">Set within the Warcraft universe, Hearthstone is a digital-only, turn-based collectible card game which pits two opponents against each other. \nThere are nine classes: Warrior, Shaman, Rogue, Paladin, Hunter, Druid, Warlock, Mage, and Priest. All classes have unique cards and abilities, known as hero powers, which help define class archetypes. \nEach player uses a deck of cards from their collection with the end goal being to reduce the opponent\'s health to zero. There are four different types of cards: minions, spells, weapons, and hero cards. Quests are a specific type of spell only found in three expansions. These cards are ordered by rarity, with Legendary cards being the rarest, followed by Epic, Rare, Common, and Basic. Blizzard releases expansions of additional cards every four months to increase the variety in the metagame. The game uses a freemium model of revenue, meaning players can play for free or pay to acquire additional card packs or content.</string>
+    <string name="HearthstonePlatforms"><b>Platforms:</b>\nWindows, Mac, iOS and Adroid</string>
+    <string name="HearthstoneRatings"><b>Ratings:\n</b>Gamespot: 8/10 \nMetacritic: 88/100 \nUser average: 8/10</string>
+
+</resources>
